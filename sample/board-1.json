@@ -1,0 +1,214 @@
+[
+  [
+    {
+      "color": "red",
+      "sound": { "uri": "https://www.youtube.com/watch?v=ZZ5LpwO-An4" }
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    }
+  ],
+  [
+    {
+      "color": "red",
+      "sound": { "uri": "https://www.youtube.com/watch?v=AXzEcwYs8Eo" }
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    }
+  ],
+  [
+    {
+      "color": "yellow",
+      "sound": { "uri": "https://www.youtube.com/watch?v=vxKBHX9Datw" }
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    }
+  ],
+  [
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    }
+  ],
+  [
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    }
+  ],
+  [
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    }
+  ],
+  [
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    }
+  ],
+  [
+    {
+      "color": "off"
+    },
+    {
+      "color": "green",
+      "sound": { "uri": "http://www.hochmuth.com/mp3/Haydn_Cello_Concerto_D-1.mp3" }
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    },
+    {
+      "color": "off"
+    }
+  ]
+]
