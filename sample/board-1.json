@@ -2,7 +2,7 @@
   [
     {
       "color": "red",
-      "sound": { "uri": "https://www.youtube.com/watch?v=ZZ5LpwO-An4" }
+      "sound": { "uri": "https://www.youtube.com/watch?v=ZZ5LpwO-An4",  "options" : {"ss": "00:01:30", "endpos": "00:02:00", "loop": 1}}
     },
     {
       "color": "off"
